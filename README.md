@@ -58,19 +58,19 @@ The smart contract is deployed on the Ethereum blockchain at the address `0x5FbD
 
 ## steps to run the code 
 
-1. After cloning the github, you will want to do the following to get the code running on your computer.
+1 .After cloning the github, you will want to do the following to get the code running on your computer.
 
-2. Inside the project directory, in the terminal type: npm i
+2 .Inside the project directory, in the terminal type: npm i
 
-3. Open two additional terminals in your VS code
+3 .Open two additional terminals in your VS code
 
-3 .In the second terminal type: npx hardhat node
+4 .In the second terminal type: npx hardhat node
 
-4 .In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
+5 .In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
 
-5 .Back in the first terminal, type npm run dev to launch the front-end.
+6 .Back in the first terminal, type npm run dev to launch the front-end.
 
-6 .After this, the project will be running on your localhost. Typically at `http://localhost:3000/`
+7 .After this, the project will be running on your localhost. Typically at `http://localhost:3000/`
 
 
 ## Contributors
