@@ -56,6 +56,8 @@ This project consists of a simple Ethereum smart contract named `Assessment` and
 
 The smart contract is deployed on the Ethereum blockchain at the address `0x5FbDB2315678afecb367f032d93F642f64180aa3`. You can interact with it using a tool like Remix or deploy it to a testnet or the mainnet.
 
+## steps to run the code 
+
 After cloning the github, you will want to do the following to get the code running on your computer.
 
 Inside the project directory, in the terminal type: npm i
