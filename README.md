@@ -68,7 +68,7 @@ In the third terminal, type: npx hardhat run --network localhost scripts/deploy.
 
 Back in the first terminal, type npm run dev to launch the front-end.
 
-After this, the project will be running on your localhost. Typically at http://localhost:3000/
+After this, the project will be running on your localhost. Typically at `http://localhost:3000/`
 
 
 ## Contributors
@@ -77,4 +77,4 @@ After this, the project will be running on your localhost. Typically at http://l
 
 ## License
 
-This project is licensed under the UNLICENSED license.
+This project is licensed under the MIT license.
